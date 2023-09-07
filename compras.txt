@@ -1,0 +1,6 @@
+verduras
+fruta
+limpieza
+comida
+carne
+pollo
